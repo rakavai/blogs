@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class CheckOut
+class Payment
+
+CheckOut -> Payment
+
+@enduml
