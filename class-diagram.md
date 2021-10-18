@@ -13,8 +13,9 @@ Based on the line type we can figure how the classed are connected with each oth
 
 ### 1. **Solid arrow line** is for **Inheritance**
 
-The direction of the arrow is from child class to parent class. Generally the arrow head is unfilled in this kind of relationship.
-In this case child class and parent class, none of them are abstruct class. The child class is just a specific type of parent class 
-and can be replaced with one another.
+![ Solid arrow line is for Inheritance](./diagram/inheritance.png)
+
+The direction of the arrow is from child class to parent class. The arrow head is unfilled.
+Just to put emphasis, the child class is just a specific type of parent class and can be replaced with one another.
 
 ### 2. **Broken arrow line** is for **Interface-Implementation class**
