@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface Interface
+class ImplementationA
+Class ImplementationB
+
+Interface <|.. ImplementationA
+Interface <|.. ImplementationB
+
+@enduml
