@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Dependent
+class Provider
+
+Dependent o- Provider
+
+@enduml

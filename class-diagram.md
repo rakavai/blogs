@@ -1,14 +1,12 @@
 # UML - Class Diagram
 
-Let's start the class diagram from the high level, and we will dig into the low level.
-
-At high-level there are two things we can see-
+At the high level, there are two things we can see in the UML class diagram-
 
 * Class block - The Box Shape
 * The connecting line among the class
 
 Based on the line type, we can figure how the entities are connected.
-Let's first go through different type line types for the relation type.
+Let's go through different type line types for the relation type.
 
 ## Connector for different type relationship
 
@@ -41,12 +39,12 @@ class Dependent {
 class Provider { }
 ```
 
-In the code snippet, the `Dependent` class is storing a reference of `Provider` class. So the `Dependent` and the
+In the code snippet, the `Dependent` class is storing a reference of the `Provider` class. So the `Dependent` and the
 `Provider` class have a strong association.
 
 The direction of the arrow is from the **dependent** to the **dependee**.
 
-> Note: Sometimes you will also see association without any arrow.
+> **Note**: Sometimes, you will also see association without any arrow.
 
 ## 4. Filled arrowhead with a broken line for Dependency
 
@@ -67,26 +65,32 @@ A dependency is much weaker than an association. Similar to the association, the
 In the example code above, the provider class is passed via a method. However, there are other ways the `Dependent`
 class could depend on the `Provider` class.
 
- * When Dependent class raises or catches `exception` of type Provider
+ * When Dependent class raises or catches an **exception** of type Provider
  * Whenever the Provider class is modified, the Dependent class needs to be modified.
  * The dependent class calls a static method from the Provider class.
 
-> Note: Sometimes you will also see association without any arrow.
+> **Note**: Sometimes, you will also see association without any arrow.
 
 ## 5. Specific type of association connector
 
-### 5.1. Aggregation - Loose Coupling
+### 5.1. Solid line with a filled diamond for Composition
 
-The aggregation association mostly means there is a loose coupling between the two entities. For example, from the
-previous code snippet, the `Payment` class can still exist if we remove the `Checkout` class.
+![Composition](diagram/composition.png)
 
-In this relationship, the diamond-shaped arrowhead is not filled and attached to the parent entities. Here, the
-`Checkout` class is the parent class, and the `Payment` class is the child class.
+The filled diamond shape is placed with the dependent entity.
 
-### 5.2. Composition - Tight Coupling
+Composition means The Dependent class **owns**  the Provider class. Therefore, the Provider class cannot exist or has no
+meaning without the Dependent class.
 
-This association means that there is a tight coupling between two entities. For example, we cannot remove either `x` or
-`y` classes and keep the other.
+For example, the relationship between a building and rooms is a type of Composition.
 
-Here the diamond shape is filled. Similar to the aggregation, the diamond shape is attached with the parent entities.
-The `x` class is the parent from the code snippet, and `y` class is the child class.
+### 5.2. Solid line with an unfilled diamond for Aggregation
+
+![Aggregation](diagram/aggregation.png)
+
+The unfilled diamond shape is placed with the dependent entity.
+
+Aggregation means the Dependent class **uses** the Provider class.
+The Provider class exists independently (conceptually) from the Dependent class.
+
+For example, The relationship between a Company and People is a type of Aggregation.
