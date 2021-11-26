@@ -1,3 +1,7 @@
+---
+title: Design Pattern / UML - Class Diagram
+---
+
 # UML - Class Diagram
 
 At the high level, there are two things we can see in the UML class diagram-

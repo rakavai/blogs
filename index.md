@@ -1,3 +1,7 @@
+---
+title: Blogs List
+---
+
 # Design Pattern
 
 ## UML
