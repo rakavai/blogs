@@ -1,5 +1,5 @@
 ---
-title: Design Pattern / UML - Class Diagram
+Title: UML - Class Diagram
 ---
 
 # UML - Class Diagram
