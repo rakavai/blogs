@@ -12,51 +12,50 @@ Let's first go through different type line types for the relation type.
 
 ## Connector for different type relationship
 
-### 1. Solid arrow line for Inheritance
+### 1. Unfilled arrowhead with a solid line for Inheritance
 
 ![Solid arrow line for Inheritance](./diagram/inheritance.png)
 
-The direction of the arrow is from the child class to the parent class. The arrowhead is unfilled. The child class is
-just a specific type of parent class and can be replaced with one another.
+The direction of the arrow is from the child class to the parent class. The child class is just a specific type of
+parent class and can be replaced with one another.
 
-### 2. Broken arrow line for Interface-Implementation class
+### 2. Unfilled arrowhead with a broken line for Interface-Implementation
 
 ![Dashed arrow line for Interface](./diagram/interface.png)
 
-This arrow is used to show interface implementation. The direction is from the implementation class to the interface,
-and the arrowhead is unfilled.
+This arrow is used to show interface implementation. The direction is from the implementation class to the interface.
 
-## 3. Broken arrow line for Dependency
-
-When a class interacts with another via method but the object is not stored in any instance field. In this case, the
-direction of the arrow is from the **dependent** to the **dependee**.
-
-> Note that the arrow head is different from the relation inheritance and the implementation.
-
-
-## 4. Solid arrow/line for Strong association
+## 3. Filled arrowhead with a solid line for Strong association
 
 ![Solid arrow for strong association arrow](diagram/association.png)
 
 ```java
-class CheckOut {
-    Payment payment;
+class Dependent {
+    Provider provider;
 
-    CheckOut(Payment payment) {
-        this.payment = payment;
+    Dependent(Provider provider) {
+        this.provider = provider;
     }
 }
 
-class Payment {
+class Provider {
 
 }
 ```
 
-If you look closely, the arrowhead is different from the inheritance arrow. The direction of the arrow is from the
-**dependent** to the **dependee**. In the example, the dependent is the `CheckOut` class, and the `Payment` class is the
-dependee.
+In the code snippet, the `Dependent` class is storing a reference of `Provider` class. So the `Dependent` and the
+`Provider` class have a strong association.
 
-Sometimes you will also see association without any arrow.
+The direction of the arrow is from the **dependent** to the **dependee**.
+
+> Note: Sometimes you will also see association without any arrow.
+
+## 4. Filled arrowhead with a broken line for Weak association
+
+When a class interacts with another via method but the object is not stored in any instance field. In this case, the
+direction of the arrow is from the **dependent** to the **dependee**.
+
+> Note: Sometimes you will also see association without any arrow.
 
 ## 5. Specific type of association connector
 
