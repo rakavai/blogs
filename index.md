@@ -6,4 +6,4 @@ Title: Blogs
 
 ## UML
 
- - [UML - Class Diagram](./class-diagram.md)
+ - [UML - Class Diagram](design-patterns/class-diagram.md)
