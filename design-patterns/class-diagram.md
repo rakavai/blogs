@@ -1,5 +1,5 @@
 ---
-Title: UML - Class Diagram
+title: UML - Class Diagram
 ---
 
 At the high level, there are two things we can see in the UML class diagram-

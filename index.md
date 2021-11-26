@@ -1,5 +1,5 @@
 ---
-Title: Blogs
+title: Blogs
 ---
 
 # Design Pattern
