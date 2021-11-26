@@ -27,7 +27,7 @@ This arrow is used to show interface implementation. The direction is from the i
 
 ## 3. Filled arrowhead with a solid line for Strong association
 
-![Solid arrow for strong association arrow](diagram/association.png)
+![Solid arrow for strong association arrow](diagram/strong-association.png)
 
 ```java
 class Dependent {
@@ -38,9 +38,7 @@ class Dependent {
     }
 }
 
-class Provider {
-
-}
+class Provider { }
 ```
 
 In the code snippet, the `Dependent` class is storing a reference of `Provider` class. So the `Dependent` and the
@@ -50,10 +48,28 @@ The direction of the arrow is from the **dependent** to the **dependee**.
 
 > Note: Sometimes you will also see association without any arrow.
 
-## 4. Filled arrowhead with a broken line for Weak association
+## 4. Filled arrowhead with a broken line for Dependency
 
-When a class interacts with another via method but the object is not stored in any instance field. In this case, the
-direction of the arrow is from the **dependent** to the **dependee**.
+
+![Filled arrowhead with a broken line for Dependency](diagram/weak-association.png)
+
+```java
+class Dependent {
+    public void someMethod(Provider provider) {}
+}
+
+class Provider { }
+```
+
+A dependency is much weaker than an association. Similar to the association, the direction of the arrow is from the
+**dependent** to the **dependee**.
+
+In the example code above, the provider class is passed via a method. However, there are other ways the `Dependent`
+class could depend on the `Provider` class.
+
+ * When Dependent class raises or catches `exception` of type Provider
+ * Whenever the Provider class is modified, the Dependent class needs to be modified.
+ * The dependent class calls a static method from the Provider class.
 
 > Note: Sometimes you will also see association without any arrow.
 
