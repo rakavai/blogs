@@ -2,12 +2,10 @@
 Title: UML - Class Diagram
 ---
 
-# UML - Class Diagram
-
 At the high level, there are two things we can see in the UML class diagram-
 
 * Class block - The Box Shape
-* The connecting line among the class
+* The connecting line among the classes
 
 Based on the line type, we can figure how the entities are connected.
 Let's go through different type line types for the relation type.
