@@ -1,0 +1,10 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class ParentClass
+class ChildClassA
+class ChildClassB
+
+ParentClass <|-- ChildClassA
+ParentClass <|-- ChildClassB
+@enduml
