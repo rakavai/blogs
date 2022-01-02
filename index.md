@@ -11,3 +11,7 @@ title: Blogs
 ## UML
 
  - [UML - Class Diagram](design-patterns/class-diagram.md)
+
+# Mini blog
+
+ - [Ignore files temporarily in git](mini-blogs/git-ignore-files-temporarily.md)
