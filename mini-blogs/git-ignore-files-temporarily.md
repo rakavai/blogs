@@ -26,9 +26,6 @@ To see the list of temporarily ignored files:
 git ls-files -v | grep "^h"
 ```
 
-> **Note:** In case some files need to be ignored all the time, it is better
-ignore the file in the `.gitignore`.
-
 ## Example
 
 ```text
@@ -76,3 +73,6 @@ $ git status
 # 
 # no changes added to commit (use "git add" and/or "git commit -a")
 ```
+
+> **Note:** In case some files need to be ignored all the time, it is better
+ignore the file in the `.gitignore`.
