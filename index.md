@@ -15,3 +15,5 @@ title: Blogs
 # Mini blog
 
  - [Ignore files temporarily in git](mini-blogs/git-ignore-files-temporarily.md)
+ - Bit Manipulation
+   - [Get a bit value from a specific position](mini-blogs/bit-manupulation-tips.md#get-a-bit-value-from-a-specific-position)
