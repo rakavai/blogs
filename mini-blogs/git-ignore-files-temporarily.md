@@ -76,3 +76,11 @@ $ git status
 
 > **Note:** In case some files need to be ignored all the time, it is better
 ignore the file in the `.gitignore`.
+
+<script src="https://utteranc.es/client.js"
+        repo="rakavai/blogs"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
