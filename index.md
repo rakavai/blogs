@@ -15,5 +15,6 @@ title: Index
 # Mini blog
 
  - [Ignore files temporarily in git](mini-blogs/git-ignore-files-temporarily.md)
- - Bit Manipulation
+ - [Bit Manipulation](mini-blogs/bit-manupulation-tips.md)
    - [Get a bit value from a specific position](mini-blogs/bit-manupulation-tips.md#get-a-bit-value-from-a-specific-position)
+   - [Set a bit value to a specific position](mini-blogs/bit-manupulation-tips.md#set-a-bit-value-to-a-specific-position)

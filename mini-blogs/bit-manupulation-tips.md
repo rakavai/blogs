@@ -58,3 +58,59 @@ int masked = number & bitMask;
 // at the specific position
 int result = masked >> position;
 ```
+
+# Set a bit value to a specific position
+
+The steps we will follow to set a bit to a specific position,
+
+ 1. Set zero to the position in the number using AND operator with the bitmask
+    complement
+ 2. And then set the desired bit value to the position using OR operator
+
+Let's say our number is `0b100100`, and we will set bit `0` at position `2` from
+the right.
+
+```text
+ 0b100101
+      ^ 2nd position to set 1
+```
+
+Generating mask,
+
+```java
+int bitMask = 1 << 2; // This will generate the number 0b000100
+int bitMaskCompliment = ~bitMask; // This will generate number 0b...111011
+```
+
+Setting zero to the specific position of the number,
+
+```text
+  0b100101
+& 0b111011
+  ________
+  0b100001
+```
+
+And then, we can just use the OR operator to set the desired bit value.
+
+```text
+  0b100001
+| 0b000000 // We can get it by: bitValue<<2
+  ________
+  0b100001
+```
+
+Sample code,
+
+```java
+int position = 2;
+int bit = 0;
+int number = 0b100101;
+
+int bitMask = 1 << position;
+int bitMaskCompliment = ~bitMask;
+
+int numberWith0AtThePosition = number & bitMaskCompliment;
+
+int result = numberWith0AtThePosition | bit << position;
+```
