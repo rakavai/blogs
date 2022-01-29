@@ -1,18 +1,16 @@
 ---
-title: Index
+title: Index of All Content
 ---
 
-# Design Principles
+## Design Principles
 
  - [SOLID Principles in 5 min](https://www.linkedin.com/pulse/solid-principles-quick-reads-rakibul-hasan)
 
-# Design Pattern
-
-## UML
+## Design Pattern
 
  - [UML - Class Diagram](design-patterns/class-diagram.md)
 
-# Mini blog
+## Mini blog
 
  - [Ignore files temporarily in git](mini-blogs/git-ignore-files-temporarily.md)
  - [Bit Manipulation](mini-blogs/bit-manupulation-tips.md)
