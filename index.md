@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: Index
 ---
 
 # Design Principles
