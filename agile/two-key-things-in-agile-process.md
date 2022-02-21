@@ -3,39 +3,61 @@ layout: post
 title: One of the two important key in agile process
 ---
 
+There are several type of agile methodologies. For example, scrum, xp,...
+There are some common part in them and some different parts. You don't have to
+follow them mutially exclusivley. The main thing about all of these agile method
+is improvement, continues improvments. Here are some of the that helped a team
+to become agile.
 These are two key things for an agile team.
 
  1. Get quick feedback from stakeholders
- 2. Reduce waste
+ 2. Internal team feedback
+ 3. Not to be suboptimise
+ 4. Reduce waste
+ 5. Knwledge share
+ 6. Don't have to follow only 1 methodology.
 
 ##  1. Get quick feedback from stakeholders
 
-1.1 Get feedback
-1.2 Adapt
+The first thing a team can be agile is to get feedback from the stakeholders and
+change direction.
 
-The stakeholders can be anyone from internal or external. It is someone who have
-values from the product you are making. Without feedbacks you are really making 
-something for air with many assumption.
+Without feedback, there will be many assumptions that most of the cases are not
+very correct.
 
-Get very quick feedback and based on that change the direction.
+One way to get quick feedback is to release features to customers faster
+periodically. However, if a company waits a long time to release a perfect
+feature, there are some risks of losing customers to competitors, or with a big
+bang release, customers may not like the product, and then changing all the 
+things comes with more costs.
 
-First thing first to get a quick feedback you will need to figure out the
-releasable chunk. Very small things can serve some value to customer/customer
-can use it and give you feedback.
+Some of the benefits of getting feedback and releasing in a small chunk are,
 
-Benefits of that:
+ * It is easy and faster to take a different approach when customers do not like
+   a feature or product
+ * If stakeholders are happy with features, it becomes easy to work on the next
+   best thing from the feedback.
+ * The enormous benefit is reaching out to customers before competitors.
 
- * If customer does not like the release then you can find other way
- * If they are happy with it then you can work on the next thing on it
- * You are actually reaching the customer before anyone
+With the periodic iterative release, we can interactively increase customers
+numbers.
 
-If you are planning for a big release and then relaised customer do not really
-want it or someone else already serving the customer. You will actually loose
-theese customer.
+Do not wait for 100% perfect for a long time. Instead, make something
+straightforward, maybe in 2 weeks to 1 month, and release it to at least one 
+customer. Moving forward, release periodically, preferably each day to 2 weeks 
+new features and open it to more customers.
 
-Now some time I hear It is hard to find out the releasable chunk. There are
-some tools and technique. One of my favorite is **user story mapping**.
+But the question is, how do we find the small releasable chunk or minimum viable
+product? User Story Mapping is a good tool that can serve this purpose. You can
+check out this [video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).
+There is also a book on user story mapping by Jeff Patton.
 
-So once you have that release it is easy to get feedback.
+> User story mapping is also a very efficient tool for sharing context across
+> the company
 
 
+
+
+# Parking
+
+I think the very first thing that really helpful is to know the higher level goal
