@@ -11,7 +11,7 @@ to become agile.
 These are two key things for an agile team.
 
  1. Get quick feedback from stakeholders
- 2. Internal team feedback
+ 2. Feedback loop for the team
  3. Not to be suboptimise
  4. Reduce waste
  5. Knwledge share
@@ -56,7 +56,14 @@ There is also a book on user story mapping by Jeff Patton.
 > the company
 
 
+## 2. Feedback loop for the team
 
+Being agile with team process is also very important like being agile with the
+feature release. Using feedback for the team process also helps the team to
+eliminate waste and find a better and efficient way of doing things. 
+Having a cadence to figure out how to make the team better, what's slowing the team down.
+A better approach could be having a do retrospective very frequently(every 1 week or 2 weeks) and
+have measure action items out of them.
 
 # Parking
 
