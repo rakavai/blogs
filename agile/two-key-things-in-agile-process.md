@@ -30,17 +30,25 @@ If an organization waits a long time to release a perfect feature,
    faults, which will make the customers unhappy.
  * There will be many assumptions that most of the cases the end customers does
    not really want.
+ * Team will work on something on assumption, which will be unused by the
+   customer and that just a clear waste.
  * Without releasing to zero customer, there is no checks and balance of the
    product. With each time we modify code, there is high chance of including
    regression bugs which with time becomes very large.
 
-Some of the benefits of getting feedback and releasing in a small chunk are,
+One of the best ways to getting early feedback is, release feature in a small
+chunk. One thing to note, the small releasable chunk needs to be usable by the
+customers.  
+Some benefits of getting feedback and releasing in a small chunk are,
 
  * It is easy and faster to take a different approach when customers do not like
-   a feature or product
+   an approach for a feature.
  * If stakeholders are happy with features, it becomes easy to work on the next
-   best thing from the feedback.
+   best thing from the feedback and have a clear direction for the whole
+   organization.
  * The enormous benefit is reaching out to customers before competitors.
+ * My personal favorite one is, when customer actually use a product, it gives
+   the team motivation to build the product.
 
 With the periodic iterative release, we can interactively increase customers
 numbers.
@@ -52,7 +60,8 @@ new features and open it to more customers.
 
 But the question is, how do we find the small releasable chunk or minimum viable
 product? User Story Mapping is a good tool that can serve this purpose. You can
-check out this [video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).
+check out this
+[video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).
 There is also a book on user story mapping by Jeff Patton.
 
 > User story mapping is also a very efficient tool for sharing context across
