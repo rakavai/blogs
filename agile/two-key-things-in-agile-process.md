@@ -81,9 +81,50 @@ Two things to make sure from this kind of team exercise,
  * Every team members should have the openspace to share their view and pain.
  * Find some measurable action items to make the team better.
  
+## Some honorable mention very important key point
 
-## 3. 
+### 3. Have a vision and share the vision across all
 
+When building something new it is very important to have a common goal for an
+organization. Once there is a common vision, the vision can drive goal for
+different teams and the goal can be temporal too.
+
+The vision should be transparent to everyone  in the org so that everyone and
+every team can work towards to the same path and make their own goal with the
+motivation from vision.
+
+Onion planning and OKR is a great set of tools to derive goal, roadmap from 
+vision and share them with everyone.
+
+> Check out [this blog]() to learn more about onion planning
+
+### 4. Learn to take one step back to move faster
+
+It's very lovonio to keep working ignoring some issues that slowing a team down.
+In the long run these issues adds up and cost more later.
+
+Some example, 
+ * In a team engineers work very fast, write a lot of but in silos, just as
+   ninja. In long run since there are knowledge silos, for a different person it
+   would ten times more time to modify the work. This could be avoided very easily
+   by doing pair programming / mob programming.
+ * Write code without test is another example. When code size grows it's become
+   unmaintainable. Adding test would make the code more maintainable, and it would
+   make refactoring easy.
+ 
+Pair programming and writing does take a little time but the benefits outweigh
+the cost in large scale when we see the big picture.
+
+So in short, see the bigger picture and invest what will help the team or
+organization in the long run.
+
+> Today's convenience is tomorrow's bigger inconvenience.
+
+> Sooner but not faster.
+
+### 5. Agile methodologies are not mutually exclusive
+
+Try new things and be agile to change that if it works or not.
 There are several type of agile methodologies. For example, scrum, xp,...
 There are some common part in them and some different parts. You don't have to
 follow them mutially exclusivley. The main thing about all of these agile method
