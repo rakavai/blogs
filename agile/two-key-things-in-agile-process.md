@@ -3,15 +3,12 @@ layout: post
 title: One of the two important key in agile process
 ---
 
-There are several type of agile methodologies. For example, scrum, xp,...
-There are some common part in them and some different parts. You don't have to
-follow them mutially exclusivley. The main thing about all of these agile method
-is improvement, continues improvments. Here are some of the that helped a team
-to become agile.
 These are two key things for an agile team.
 
- 1. Get quick feedback from stakeholders
- 2. Feedback loop for the team
+ 1. Quick feedback loop from stakeholders
+ 2. Quick feedback loop for the team
+
+Additional
  3. Do not work in layer / set the higher level goal for all/ transparant about
     goal with everyone
  4. Not to be suboptimise
@@ -70,12 +67,17 @@ story mapping a team exercise which helps an organization to figure out the MVP
 and also bring everyone to the same page.
 You can check out this
 [video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).
-There is also a book on user story mapping by Jeff Patton.
+> There is also a book about user story mapping by **Jeff Patton**.
 
-## 2. Feedback loop for the team
+## 2. Quick feedback loop for the team
+
+Feedback from the org and/or team and process is also as import as feedback from
+the customers. This is the continues improvement for the way we will make the 
+product. 
 
 Being agile with team process is also very important like being agile with the
-feature release. Using feedback for the team process also helps the team to
+feature release. `How` is as important as `what`.
+Using feedback for the team process also helps the team to
 eliminate waste and find a better and efficient way of doing things. 
 Having a cadence to figure out how to make the team better, what's slowing the team down.
 A better approach could be having a do retrospective very frequently(every 1 week or 2 weeks) and
@@ -84,8 +86,12 @@ have measure action items out of them.
 
 ## 3. 
 
-One of the common scenario I saw many times is, an organization wait for a perfect
-product and work
+There are several type of agile methodologies. For example, scrum, xp,...
+There are some common part in them and some different parts. You don't have to
+follow them mutially exclusivley. The main thing about all of these agile method
+is improvement, continues improvments. Here are some of the that helped a team
+to become agile.
+
 
 # Parking
 
