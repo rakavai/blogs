@@ -37,8 +37,8 @@ If an organization waits a long time to release a perfect feature,
    regression bugs which with time becomes very large.
 
 One of the best ways to getting early feedback is, release feature in a small
-chunk. One thing to note, the small releasable chunk needs to be usable by the
-customers.  
+chunk. One thing to note, the small releasable chunk needs to be **usable by the
+customers**.  
 Some benefits of getting feedback and releasing in a small chunk are,
 
  * It is easy and faster to take a different approach when customers do not like
@@ -50,23 +50,27 @@ Some benefits of getting feedback and releasing in a small chunk are,
  * My personal favorite one is, when customer actually use a product, it gives
    the team motivation to build the product.
 
-With the periodic iterative release, we can interactively increase customers
-numbers.
+Some questions I heard about releasing in small chunk,
+ * Customer will hate an org if we don't give the customers all the features
+ * How to figure out what is a good minimum viable readable chunk
 
-Do not wait for 100% perfect for a long time. Instead, make something
-straightforward, maybe in 2 weeks to 1 month, and release it to at least one 
-customer. Moving forward, release periodically, preferably each day to 2 weeks 
-new features and open it to more customers.
+The first concerns is easier to fix. We don't need to open the product for all
+the customers. We can find the smallest usable and releasable chunk and then
+just onboard only a few customers. Make something straightforward, maybe in 2 
+weeks to 1 month, and release it to at least one customer. Moving forward, 
+release periodically, preferably each day to 2 weeks new features and gradually
+onboard more customers.
 
-But the question is, how do we find the small releasable chunk or minimum viable
-product? User Story Mapping is a good tool that can serve this purpose. You can
-check out this
+> You can try canary release with existing product with new features.
+
+Now about the second concerns, how do we find the small releasable chunk or 
+minimum viable product?  
+User Story Mapping is one of the best tool that can serve this purpose. User
+story mapping a team exercise which helps an organization to figure out the MVP
+and also bring everyone to the same page.
+You can check out this
 [video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).
 There is also a book on user story mapping by Jeff Patton.
-
-> User story mapping is also a very efficient tool for sharing context across
-> the company
-
 
 ## 2. Feedback loop for the team
 
