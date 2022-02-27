@@ -28,7 +28,7 @@ If an organization waits a long time to release a perfect feature,
    customer and that just a clear waste.
  * Without releasing to zero customer, there is no checks and balance of the
    product. With each time we modify code, there is high chance of including
-   regression bugs which with time becomes very large.
+   regression bugs which with time becomes very large when no one uses it.
 
 One of the best ways to getting early feedback is, release feature in a small
 chunk. One thing to note, the small releasable chunk needs to be **usable by the
@@ -36,23 +36,22 @@ customers**.
 Some benefits of getting feedback and releasing in a small chunk are,
 
  * It is easy and faster to take a different approach when customers do not like
-   an approach for a feature.
+   an approach for a feature or product.
  * If stakeholders are happy with features, it becomes easy to work on the next
-   best thing from the feedback and have a clear direction for the whole
-   organization.
+   best thing from the feedback and have a clear direction.
  * The enormous benefit is reaching out to customers before competitors.
  * My personal favorite one is, when customer actually use a product, it gives
-   the team motivation to build the product.
+   the team motivation to build the product more.
 
-Some questions I heard about releasing in small chunk,
- * Customer will hate an org if we don't give the customers all the features
- * How to figure out what is a good minimum viable readable chunk
+Some concerns I heard about usable and realizable small chunk,
+ * What if customer does not like a product when some features are missing
+ * And, how to figure out what is a good minimum viable readable chunk
 
 The first concerns is easier to fix. We don't need to open the product for all
-the customers. We can find the smallest usable and releasable chunk and then
-just onboard only a few customers. Make something straightforward, maybe in 2 
+the customers at first. We can find the smallest usable and releasable chunk and then
+just onboard only a few customers. We can make something straightforward in 2 
 weeks to 1 month, and release it to at least one customer. Moving forward, 
-release periodically, preferably each day to 2 weeks new features and gradually
+we can release new features periodically, preferably each day to 2 weeks  and gradually
 onboard more customers.
 
 > You can try canary release with existing product with new features.
@@ -124,14 +123,13 @@ organization in the long run.
 
 ### 5. Agile methodologies are not mutually exclusive
 
-Try new things and be agile to change that if it works or not.
-There are several type of agile methodologies. For example, scrum, xp,...
-There are some common part in them and some different parts. You don't have to
-follow them mutially exclusivley. The main thing about all of these agile method
-is improvement, continues improvments. Here are some of the that helped a team
-to become agile.
+There are several type of agile methodologies for example, scrum, xp,...
+There are some commonality and difference among these methodologies. However, 
+They are not mutually exclusive. They are just a framework or path to start. We 
+can include or exclude some practice from them.  
+The most important thing is, start with something with the import key points in 
+mind and then improve continuously.
 
 
-# Parking
-
-I think the very first thing that really helpful is to know the higher level goal
+> Do not afraid to try out new things and be agile to improve the new things or
+> remove them.
