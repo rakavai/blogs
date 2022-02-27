@@ -9,12 +9,9 @@ These are two key things for an agile team.
  2. Quick feedback loop for the team
 
 Additional
- 3. Do not work in layer / set the higher level goal for all/ transparant about
-    goal with everyone
- 4. Not to be suboptimise
- 5. Reduce waste
- 6. Knwledge share
- 7. Don't have to follow only 1 methodology.
+ 3. Have vision and be on the same page about the vision
+ 4. Learn to take one step back to move faster
+ 5. Don't have to follow only 1 methodology.
 
 ##  1. Get quick feedback from stakeholders
 
@@ -71,18 +68,19 @@ You can check out this
 
 ## 2. Quick feedback loop for the team
 
-Feedback from the org and/or team and process is also as import as feedback from
-the customers. This is the continues improvement for the way we will make the 
-product. 
+Feedback on the org and/or team process is as import as feedback from the 
+customers. Using feedback for the team process and acting on that helps the team
+to eliminate waste and find a better and efficient way of doing things. One
+import note, when we say team process, the important factors are about how team
+work togather, interact with each other and share context.
 
-Being agile with team process is also very important like being agile with the
-feature release. `How` is as important as `what`.
-Using feedback for the team process also helps the team to
-eliminate waste and find a better and efficient way of doing things. 
-Having a cadence to figure out how to make the team better, what's slowing the team down.
-A better approach could be having a do retrospective very frequently(every 1 week or 2 weeks) and
-have measure action items out of them.
-
+A team should have a cadence to figure out how to make the team better and 
+what's slowing the team down. Retrospective is a great tool that can serve this
+purpose. A good practice is to do retrospective frequently, every 1-2 week. 
+Two things to make sure from this kind of team exercise,
+ * Every team members should have the openspace to share their view and pain.
+ * Find some measurable action items to make the team better.
+ 
 
 ## 3. 
 
