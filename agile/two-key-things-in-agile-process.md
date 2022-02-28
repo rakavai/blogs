@@ -1,19 +1,20 @@
 ---
 layout: post
-title: One of the two important key in agile process
+title: Some important keys to be agile
 ---
 
-These are two key things for an agile team.
+Two key things for an agile team,
 
  1. Quick feedback loop from stakeholders
- 2. Quick feedback loop for the team
+ 2. Quick feedback  loop for the team
 
-Additional
+Additional key point,
+
  3. Have vision and be on the same page about the vision
  4. Learn to take one step back to move faster
  5. Don't have to follow only 1 methodology.
 
-##  1. Get quick feedback from stakeholders
+##  1. Quick feedback loop from stakeholders
 
 A very important criteria to be agile is to get feedback from the stakeholders
 early and frequently and adapt based on the feedback.
