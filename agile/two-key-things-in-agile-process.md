@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Some important keys to be agile
+title: 2 + 3 Key elements for an effective Agile projects
 ---
 
-Two key things for an agile team,
+Top two key points for an effective agile team
 
  1. Quick feedback loop from stakeholders
- 2. Quick feedback  loop for the team
+ 2. Quick feedback loop for the team
 
 Additional key point,
 
@@ -19,52 +19,58 @@ Additional key point,
 A very important criteria to be agile is to get feedback from the stakeholders
 early and frequently and adapt based on the feedback.
 
-If an organization waits a long time to release a perfect feature, 
- * There are some risks of losing customers to competitors, 
- * With a big bang release, there is a high chance customers will find many
-   faults, which will make the customers unhappy.
- * There will be many assumptions that most of the cases the end customers does
-   not really want.
- * Team will work on something on assumption, which will be unused by the
-   customer and that just a clear waste.
- * Without releasing to zero customer, there is no checks and balance of the
-   product. With each time we modify code, there is high chance of including
-   regression bugs which with time becomes very large when no one uses it.
+If an organization waits a long time to release a "perfect" feature or product, 
+it can cause a lot of issues and business problem for the organization. Some
+are,
+
+ * It's easy to lose potential customers to competitors with long wait time.
+ * When there is big bang release with so-called perfect product with many
+   features, there is a high chance customers will find many faults, which will 
+   make the customers very unhappy. Moreover, there will be number of features
+   that the customer would not even want.
+ * Team will work on something for a long time based on some wrong assumption, 
+   which will eventually be unused by the customers and which is just a huge 
+   waste.
+ * Without any customer using a product and feedback, there is no checks and
+   balance of the product. With each time someone modifies something in the
+   product, there is always chance of including regression bugs and with time if
+   it is unchecked it grows in unmaintainable proportion. Also, QA cannot check
+   this, because QA is not your real customers.
 
 One of the best ways to getting early feedback is, release feature in a small
 chunk. One thing to note, the small releasable chunk needs to be **usable by the
 customers**.  
 Some benefits of getting feedback and releasing in a small chunk are,
 
+ * It solves all the cons we discussed in previous section.
  * It is easy and faster to take a different approach when customers do not like
    an approach for a feature or product.
  * If stakeholders are happy with features, it becomes easy to work on the next
    best thing from the feedback and have a clear direction.
- * The enormous benefit is reaching out to customers before competitors.
- * My personal favorite one is, when customer actually use a product, it gives
-   the team motivation to build the product more.
+ * My personal favorite one: When customers actually use a product, it gives
+   the team/organization motivation to build the product even more.
 
-Some concerns I heard about usable and realizable small chunk,
+Now two common questions regarding `small`, `usable` and `releasable` chunk,
  * What if customer does not like a product when some features are missing
- * And, how to figure out what is a good minimum viable readable chunk
+ * And, how to figure out what is a good `small`, `usable` and `releasable` chunk
 
 The first concerns is easier to fix. We don't need to open the product for all
-the customers at first. We can find the smallest usable and releasable chunk and then
-just onboard only a few customers. We can make something straightforward in 2 
-weeks to 1 month, and release it to at least one customer. Moving forward, 
-we can release new features periodically, preferably each day to 2 weeks  and gradually
-onboard more customers.
+the customers at first. We can find the smallest usable and releasable chunk and
+then just onboard only a few customers. We can make something straightforward in
+2 weeks to 1 month, and release it to at least one customer. Moving forward, we
+can release new features periodically, preferably each day to 2 weeks and
+gradually onboard more customers.
 
 > You can try canary release with existing product with new features.
 
 Now about the second concerns, how do we find the small releasable chunk or 
 minimum viable product?  
 User Story Mapping is one of the best tool that can serve this purpose. User
-story mapping a team exercise which helps an organization to figure out the MVP
-and also bring everyone to the same page.
+story mapping a team exercise which helps an organization to figure out the
+`Minimum Viable Product` or  `MVP` and also bring everyone to the same page.
 You can check out this
-[video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).
-> There is also a book about user story mapping by **Jeff Patton**.
+[video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).  
+There is also a book about user story mapping by **Jeff Patton**.
 
 ## 2. Quick feedback loop for the team
 
@@ -134,3 +140,6 @@ mind and then improve continuously.
 
 > Do not afraid to try out new things and be agile to improve the new things or
 > remove them.
+
+## Parking lot
+- Mention user stories
