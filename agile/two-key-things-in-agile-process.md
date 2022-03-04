@@ -3,12 +3,14 @@ layout: post
 title: 2 + 3 Key elements for an effective Agile projects
 ---
 
-Top two key points for an effective agile team
+There could be a number of activity that could make a project agile and
+successful. However, there are two key elements which can drive all the other 
+activities of a successful agile project. They are,
 
  1. Quick feedback loop from stakeholders
- 2. Quick feedback loop for the team
+ 2. Quick feedback loop from the team
 
-Additional key point,
+Additional key point (Honorable Mention),
 
  3. Have vision and be on the same page about the vision
  4. Learn to take one step back to move faster
@@ -19,73 +21,90 @@ Additional key point,
 A very important criteria to be agile is to get feedback from the stakeholders
 early and frequently and adapt based on the feedback.
 
+### Issues with long wait time without any users
+
 If an organization waits a long time to release a "perfect" feature or product, 
-it can cause a lot of issues and business problem for the organization. Some
+it can cause a lot of issues and business problems for the organization. Some
 are,
 
  * It's easy to lose potential customers to competitors with long wait time.
  * When there is big bang release with so-called perfect product with many
    features, there is a high chance customers will find many faults, which will 
-   make the customers very unhappy. Moreover, there will be number of features
-   that the customer would not even want.
- * Team will work on something for a long time based on some wrong assumption, 
-   which will eventually be unused by the customers and which is just a huge 
-   waste.
- * Without any customer using a product and feedback, there is no checks and
-   balance of the product. With each time someone modifies something in the
-   product, there is always chance of including regression bugs and with time if
-   it is unchecked it grows in unmaintainable proportion. Also, QA cannot check
-   this, because QA is not your real customers.
+   make the customers very unhappy and angry.
+ * The amount of waste increases with long wait time. So long wait time before
+   going to the customers means a lot of assumptions are made. So there will be 
+   number of features which customer will never use. Which is a form of waste.
+ * Without any customer using a product and feedback, there are no checks and
+   balance of the product. With each modification, there is always chance of
+   including regression bugs and if it is unchecked with no feedback these
+   regressions grows in unmaintainable proportion.   
 
-One of the best ways to getting early feedback is, release feature in a small
-chunk. One thing to note, the small releasable chunk needs to be **usable by the
-customers**.  
-Some benefits of getting feedback and releasing in a small chunk are,
+   > Little drops of water make the mighty ocean
+   
+   This kind of regression cannot be caught with a QA team or tests. You do need
+   real active users to catch this regression from feedbacks.
 
- * It solves all the cons we discussed in previous section.
+### How to get early feedback
+
+Now let's discuss how we can actually get these early feedbacks. One of the best
+ways to get early feedback is, releasing feature in a small **usable increment**
+to the customers.  
+Releasing in a small usable increment will resolve [the issues that are
+discussed in the previous section](#issues-with-long-wait-time-without-any-users).
+Moreover,
+
  * It is easy and faster to take a different approach when customers do not like
-   an approach for a feature or product.
+   an approach for an increment.
  * If stakeholders are happy with features, it becomes easy to work on the next
    best thing from the feedback and have a clear direction.
- * My personal favorite one: When customers actually use a product, it gives
-   the team/organization motivation to build the product even more.
+ * **The best one:** When users actually use a product, it gives the 
+   team/organization a huge motivation to build the product even more.
 
-Now two common questions regarding `small`, `usable` and `releasable` chunk,
+Now two common questions regarding `small`, `usable` and `releasable` increment,
  * What if customer does not like a product when some features are missing
- * And, how to figure out what is a good `small`, `usable` and `releasable` chunk
+ * And, how to figure out what is a good `small`, `usable` and `releasable`
+   increment
 
-The first concerns is easier to fix. We don't need to open the product for all
-the customers at first. We can find the smallest usable and releasable chunk and
-then just onboard only a few customers. We can make something straightforward in
-2 weeks to 1 month, and release it to at least one customer. Moving forward, we
-can release new features periodically, preferably each day to 2 weeks and
-gradually onboard more customers.
+The first concerns is easier to address. In the beginning, the product is not 
+needed to be opened to all customers. After finding the smallest usable and 
+releasable increment and only a few customers can be onboarded at first.  
+For example,  We can make something straightforward in 2 weeks to 1 month, and
+release it to at least one customer. Moving forward, we can release new features
+periodically, preferably each day to 2 weeks and gradually onboard more
+customers along the way.
 
-> You can try canary release with existing product with new features.
+> Tip: You can try canary release with existing product with new features.
 
-Now about the second concerns, how do we find the small releasable chunk or 
-minimum viable product?  
+Now about the second concerns, how do we find the small releasable and usable
+increment or some say `Minimum Viable Product (MVP)`?  
 User Story Mapping is one of the best tool that can serve this purpose. User
 story mapping a team exercise which helps an organization to figure out the
 `Minimum Viable Product` or  `MVP` and also bring everyone to the same page.
 You can check out this
 [video about user story mapping by jeff Patton](https://www.youtube.com/watch?v=AorAgSrHjKM&t=3s).  
-There is also a book about user story mapping by **Jeff Patton**.
+There is also a book about user story mapping by **Jeff Patton** you can check
+out.
 
 ## 2. Quick feedback loop for the team
 
-Feedback on the org and/or team process is as import as feedback from the 
-customers. Using feedback for the team process and acting on that helps the team
-to eliminate waste and find a better and efficient way of doing things. One
-import note, when we say team process, the important factors are about how team
-work togather, interact with each other and share context.
+Feedback loop for the `organization process` and/or `team process` is as the
+first [key element](#1-quick-feedback-loop-from-stakeholders). Adapting based on
+feedbacks for the team helps the team to eliminate waste and find a better and
+efficient way of doing things.  
+One import note, when we say team process, the important factors are about how
+team members work togather, interact with each other and share context rather
+than process itself.
 
-A team should have a cadence to figure out how to make the team better and 
-what's slowing the team down. Retrospective is a great tool that can serve this
-purpose. A good practice is to do retrospective frequently, every 1-2 week. 
+### How to get feedback for the team
+It is best when a team is autonomous and generate their own feedback. A team 
+should have a cadence to figure out how to make the team better and what's 
+slowing the team down. Retrospective is a great tool that can serve this purpose.
+A good practice is to do retrospective frequently. Every team different so the every 1-2 week. 
 Two things to make sure from this kind of team exercise,
  * Every team members should have the openspace to share their view and pain.
  * Find some measurable action items to make the team better.
+
+Another good thing to do is a review way of work.
  
 ## Some honorable mention very important key point
 
