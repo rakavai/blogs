@@ -108,18 +108,18 @@ Two things to make sure from this kind of team exercise,
  
 ## Some honorable mention very important key point
 
-### 3. Have a vision and share the vision across all
+### 3. Have a common transparent vision
 
-When building something new it is very important to have a common goal for an
-organization. Once there is a common vision, the vision can drive goal for
-different teams and the goal can be temporal too.
+When building something, it is very important to have a common vision for an
+organization. Once there is a common vision, the vision can drive incremental
+goals for different teams.
 
-The vision should be transparent to everyone  in the org so that everyone and
-every team can work towards to the same path and make their own goal with the
-motivation from vision.
+The vision should be transparent to everyone in an organization so that every
+team and member can work towards same vision autonomously. Vision is a great
+motivator.
 
 Onion planning and OKR is a great set of tools to derive goal, roadmap from 
-vision and share them with everyone.
+vision.
 
 > Check out [this blog]() to learn more about onion planning
 
