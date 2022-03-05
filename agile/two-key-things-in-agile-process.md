@@ -87,13 +87,13 @@ out.
 
 ## 2. Quick feedback loop for the team
 
-Feedback loop for the `organization process` and/or `team process` is as the
+Feedback loop for the `organization and team process` is as important as the
 first [key element](#1-quick-feedback-loop-from-stakeholders). Adapting based on
-feedbacks for the team helps the team to eliminate waste and find a better and
-efficient way of doing things.  
-One import note, when we say team process, the important factors are about how
-team members work togather, interact with each other and share context rather
-than process itself.
+feedbacks for the team helps the team to eliminate waste and become better and
+efficient.  
+One import note, Here the `team process` stands for how team members work
+togather, interact with each other and share context.  
+So it's about, `Individuals and Interactions Over Processes and Tools`
 
 ### How to get feedback for the team
 It is best when a team is autonomous and generate their own feedback. A team 
