@@ -130,24 +130,21 @@ It's very tempting to ignore issues that slows down a team and keep working to
 deliver product faster. Eventually very soon, these issues add up, add lot more
 cost and slows down the team even more.
 
-Some common examples, 
- * In a team engineers work very fast, write a lot of but in silos, just as
-   ninja. In long run since there are knowledge silos, for a different person it
-   would ten times more time to modify the work. This could be avoided very easily
-   by doing pair programming / mob programming.
- * Write code without test is another example. When code size grows it's become
-   unmaintainable. Adding test would make the code more maintainable, and it would
-   make refactoring easy.
- 
-Pair programming and writing does take a little time but the benefits outweigh
-the cost in large scale when we see the big picture.
+Some common examples for a software product are,
+ * Writing code in silos because sharing context takes some extra time.
+ * Writing code without tests because that takes time and efforts.
+ * Ignoring tech debts and implement new feature without refactoring.
 
-So in short, see the bigger picture and invest what will help the team or
-organization in the long run.
+All these lead to a unmaintainbale product and exponential cost. Pair
+programming, be mindful about refactoring and tech debt, test driven
+developments (TDD) can help to avoid this situations.
 
-> Today's convenience is tomorrow's bigger inconvenience.
+So keeping in mind,
 
-> Sooner but not faster.
+> Today's convenience is tomorrow's bigger inconvenience."
+
+And work on the things that would make the team faster in the very
+near future.
 
 ### 5. Agile methodologies are not mutually exclusive
 
