@@ -99,8 +99,8 @@ So it's about, `Individuals and Interactions Over Processes and Tools`
 It is best when a team is autonomous and generate their own feedback. A team 
 should have a cadence to figure out how to make the team better and what's 
 slowing the team down. Retrospective is a great tool that can serve this purpose.
-A good practice is to do retrospective frequently. A general practice is to do
-the retro every 1-2 weeks.
+A general practice is to do retrospective frequently. Doing retro every 1 or
+2 weeks, is a good cadence.
 
 Two things to make sure from this kind of team exercise,
  * Every team members should have the openspace to share their view and pain point (feedback).
@@ -126,10 +126,11 @@ and roadmap from vision.
 
 ### 4. Learn to take one step back to move faster
 
-It's very lovonio to keep working ignoring some issues that slowing a team down.
-In the long run these issues adds up and cost more later.
+It's very tempting to ignore issues that slows down a team and keep working to 
+deliver product faster. Eventually very soon, these issues add up, add lot more
+cost and slows down the team even more.
 
-Some example, 
+Some common examples, 
  * In a team engineers work very fast, write a lot of but in silos, just as
    ninja. In long run since there are knowledge silos, for a different person it
    would ten times more time to modify the work. This could be avoided very easily
