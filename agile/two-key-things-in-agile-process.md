@@ -118,10 +118,11 @@ The vision should be transparent to everyone in an organization so that every
 team and member can work towards same vision autonomously. Vision is a great
 motivator.
 
-Onion planning and OKR is a great set of tools to derive goal, roadmap from 
-vision.
+Planning onion and OKR is a great set of tools and concepts to derive goal
+and roadmap from vision.
 
-> Check out [this blog]() to learn more about onion planning
+> If you want to learn more about planning onion,
+> check out [this blog](https://www.stridenyc.com/blog/the-planning-onion-a-product-management-concept)
 
 ### 4. Learn to take one step back to move faster
 
