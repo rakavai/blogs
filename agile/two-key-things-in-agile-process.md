@@ -148,16 +148,13 @@ near future.
 
 ### 5. Agile methodologies are not mutually exclusive
 
-There are several type of agile methodologies for example, scrum, xp,...
-There are some commonality and difference among these methodologies. However, 
-They are not mutually exclusive. They are just a framework or path to start. We 
-can include or exclude some practice from them.  
-The most important thing is, start with something with the import key points in 
-mind and then improve continuously.
+There are a number of agile methodologies. For example Kanban, Scrum,
+Extreme Programming (XP), etc. There are some commonality and difference
+among all these methodologies. They are just some good frameworks or path to
+start depending on the team. The most important thing is, start with
+something and then just be agile to introduce or exclude new practice from
+all the frameworks.
 
 
 > Do not afraid to try out new things and be agile to improve the new things or
 > remove them.
-
-## Parking lot
-- Mention user stories
