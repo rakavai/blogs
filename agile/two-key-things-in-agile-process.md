@@ -152,9 +152,10 @@ There are a number of agile methodologies. For example Kanban, Scrum,
 Extreme Programming (XP), etc. There are some commonality and difference
 among all these methodologies. They are just some good frameworks or path to
 start depending on the team. The most important thing is, start with
-something and then just be agile to introduce or exclude new practice from
-all the frameworks.
+something and then with iteration introduce or exclude new practice from
+all the frameworks that are suitable for the team.
 
+## Summenry
 
-> Do not afraid to try out new things and be agile to improve the new things or
-> remove them.
+To be agile, don't be afraid to try out new things in iteration. You can always change direction
+in iteration.
