@@ -88,7 +88,7 @@ out.
 ## 2. Quick feedback loop for the team
 
 Feedback loop for the `organization and team process` is as important as the
-first [key element](#1-quick-feedback-loop-from-stakeholders). Adapting based on
+[first key element](#1-quick-feedback-loop-from-stakeholders). Adapting based on
 feedbacks for the team helps the team to eliminate waste and become better and
 efficient.  
 One import note, Here the `team process` stands for how team members work
@@ -99,12 +99,12 @@ So it's about, `Individuals and Interactions Over Processes and Tools`
 It is best when a team is autonomous and generate their own feedback. A team 
 should have a cadence to figure out how to make the team better and what's 
 slowing the team down. Retrospective is a great tool that can serve this purpose.
-A good practice is to do retrospective frequently. Every team different so the every 1-2 week. 
-Two things to make sure from this kind of team exercise,
- * Every team members should have the openspace to share their view and pain.
- * Find some measurable action items to make the team better.
+A good practice is to do retrospective frequently. A general practice is to do
+the retro every 1-2 weeks.
 
-Another good thing to do is a review way of work.
+Two things to make sure from this kind of team exercise,
+ * Every team members should have the openspace to share their view and pain point (feedback).
+ * Some measurable action items should be genreated from the team feedbacks.
  
 ## Some honorable mention very important key point
 
