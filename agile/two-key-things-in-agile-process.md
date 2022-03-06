@@ -57,10 +57,10 @@ previous section](#issues-with-long-wait-time-without-any-users). Moreover,
 
 The concern is easier to address. In the beginning, the product is not needed to
 be opened to all users. After finding the smallest usable and releasable 
-increment and only a few users can be onboarded at first. For example, we can 
-make something straightforward in 2 weeks to 1 month and release it to at least
-one user. Then, moving forward, we can release new features periodically,
-preferably each day to 2 weeks, and gradually onboard more users along the way.
+increment, only a few users can be onboarded at first. For example, we can make
+something straightforward in 2 weeks to 1 month and release it to at least one
+user. Then, moving forward, we can release new features periodically, preferably
+each day to 2 weeks, and gradually onboard more users along the way.
 
 > **Tip:** Try `canary release` to make new software features available to a 
 > limited selection of users ahead of a wider release.
@@ -88,6 +88,7 @@ together, interact with each other, and share context.
 So it's about, `Individuals and Interactions Over Processes and Tools`
 
 ### How to get feedback for the team
+
 It is best when a team is autonomous and generates their own feedback. A team 
 should have a cadence to figure out what's slowing the team down and how to make
 the team better. A retrospective is a great tool that can serve this purpose.
@@ -99,7 +100,7 @@ Two things to make sure from this kind of team exercise,
    points (feedback).
  * The team should generate some measurable action items from the input.
  
-## Some honorable mention significant key point
+## Some additional important key points
 
 ### 3. Have a shared, transparent vision
 
@@ -123,20 +124,11 @@ It's tempting to ignore issues that slow down a team and keep working to deliver
 products faster. But, eventually, very soon, these issues add up, add a lot more
 cost, and slow down the team even more.
 
-Some common examples for a software product are,
- * Writing code in silos because sharing context takes some extra time.
- * Writing code without tests because writing tests takes time and effort.
- * Ignoring tech debts and implementing new features without refactoring.
-
-All these lead to an unmaintainable product and exponential cost. Pair 
-programming, be mindful about refactoring and tech debt, and test-driven 
-developments (TDD) can help avoid this situation.
-
 So keeping in mind,
 
 > Today's convenience is tomorrow's more enormous inconvenience.
 
-and work on the things that would make the team faster in the very soon.
+and work on the things that would make the team faster in the very near future.
 
 ### 5. Agile methodologies are not mutually exclusive
 
@@ -150,5 +142,5 @@ introduce or exclude practices with iteration.
 
 To be agile, don't be afraid to try out new things in iteration. You can always 
 change direction in iteration.  
-Every team is different. So, do whatever works for your team, keeping the agile
-values and principles in mind.
+Every team is different. So, try whatever works for your team by following the
+agile values and principles in mind.
