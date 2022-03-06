@@ -10,6 +10,10 @@ title: Index of All Content
 
  - [UML - Class Diagram](design-patterns/class-diagram.md)
 
+### Agile software development
+
+ - [Key elements for effective Agile projects](agile/key-elements-for-effective-Agile-projects.md)
+
 ### Mini blog
 
  - [Ignore files temporarily in git](mini-blogs/git-ignore-files-temporarily.md)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 + 3 Key elements for an effective Agile projects
+title: Key elements for effective Agile projects
 ---
 
 There could be several activities that could make a project agile and 
