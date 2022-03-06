@@ -24,9 +24,9 @@ it can cause many issues and business problems. Some are,
  * When there is a big bang release with a so-called perfect product with many
    features, there is a high chance that customers will find many faults, which
    will make the customers very unhappy and angry.
- * Waste increases with a long wait time. So, waiting a long time
-   before going to the customers means many assumptions are made. So there will
-   be several features that customers will never use, which is a form of waste.
+ * Waste increases with a long wait time. Waiting a long time before going to 
+   the customers means many assumptions are made. So there will be several
+   features that customers will never use, which is a form of waste.
  * Without any customer using a product and feedback, there are no checks and
    balances of the product. With each modification, there is always a chance of
    including regression bugs, and if it is unchecked with no feedback, these
@@ -52,23 +52,21 @@ previous section](#issues-with-long-wait-time-without-any-users). Moreover,
  * **The best one:** When users actually use a product, it gives the 
    team/organization a huge motivation to build the product even more.
 
-What-if and how regarding `small`, `usable`, and `releasable` increment,
- * What if a customer does not like a product when some features are missing
- * And how to figure out a good `small`, `usable`, and `releasable` increment
 
-The first concern is easier to address. In the beginning, the product is not 
-needed to be opened to all customers. After finding the smallest usable and 
-releasable increment and only a few customers can be onboarded at first.  
-For example,  We can make something straightforward in 2 weeks to 1 month and
-release it to at least one customer. Then, moving forward, we can release new
-features periodically, preferably each day to 2 weeks, and gradually onboard
-more customers along the way.
+#### What if a customer does not like a product when some features are missing
+
+The concern is easier to address. In the beginning, the product is not needed to
+be opened to all users. After finding the smallest usable and releasable 
+increment and only a few users can be onboarded at first. For example, we can 
+make something straightforward in 2 weeks to 1 month and release it to at least
+one user. Then, moving forward, we can release new features periodically,
+preferably each day to 2 weeks, and gradually onboard more users along the way.
 
 > **Tip:** Try `canary release` to make new software features available to a 
 > limited selection of users ahead of a wider release.
 
-Now about the second concern, how do we find the small releasable and usable
-increment or, some say, `Minimum Viable Product (MVP)`?  
+#### How to figure out a good `small`, `usable`, and `releasable` increment
+
 User Story Mapping is one of the best tools to serve this purpose. User story
 mapping is a team exercise that helps an organization figure out the `Minimum 
 Viable Product` or `MVP`. User story mapping can also help to bring everyone on
