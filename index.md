@@ -9,6 +9,7 @@ title: Index of All Content
 ### Design Pattern
 
  - [UML - Class Diagram](design-patterns/class-diagram.md)
+ - [📹 CQRS and Event Sourcing in 5 min](https://www.youtube.com/watch?v=bxCVn6fQdHc)
 
 ### Agile software development
 
