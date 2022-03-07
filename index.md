@@ -17,6 +17,7 @@ title: Index of All Content
 
 ### Mini blog
 
+ - [Quick overview of OpenAPI Specification](mini-blogs/openapi-quick-overview.md)
  - [Ignore files temporarily in git](mini-blogs/git-ignore-files-temporarily.md)
  - [Bit Manipulation](mini-blogs/bit-manupulation-tips.md)
    - [Get a bit value from a specific position](mini-blogs/bit-manupulation-tips.md#get-a-bit-value-from-a-specific-position)
