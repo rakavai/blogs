@@ -10,12 +10,12 @@ standardized format readable by both humans and machines.
 
 ### Quick History
 
-Previously, the `OpenAPI specification` was part of `Swagger` and known as
-`Swagger specification`. Now it's separated from `Swagger` and moved to a 
-[new repo](https://github.com/OAI/OpenAPI-Specification).
+Previously, the OpenAPI specification was part of Swagger and known as Swagger 
+specification. Now it's separated from Swagger and moved to a 
+[new GitHub repo](https://github.com/OAI/OpenAPI-Specification).
 
 So `OpenAPI` is the specification, and `Swagger` is a set of some open source
-and paid tools for implementing `OpenAPI specification`. Besides `Swagger`, there
+and paid tools for implementing OpenAPI specification. Besides Swagger, there
 are [many tools for OpenAPI implementation](https://github.com/OAI/OpenAPI-Specification/blob/main/IMPLEMENTATIONS.md#implementations)
 out there.
 
